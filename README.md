@@ -1,2 +1,3 @@
 # medicaps
 hii, this is my first Git repo
+author-Anshul Pandey
