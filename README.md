@@ -1,4 +1,4 @@
 # medicaps
 hii, this is my first Git repo
 <br>
-author-Anshul Pandey
+author-Anshul(medicaps)
